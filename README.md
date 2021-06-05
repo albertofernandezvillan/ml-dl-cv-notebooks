@@ -4,3 +4,4 @@ For anyone interested in this repository, it is intended to be like a continuati
 
 
 * ROC Curves And AUC with scikit-learn: https://github.com/albertofernandezvillan/ml-dl-cv-notebooks/blob/main/roc_curves_and_auc_scikit_learn.ipynb
+* Testing all pre-trained models using keras.applications and a simple user interface: https://github.com/albertofernandezvillan/ml-dl-cv-notebooks/blob/main/image_classification_keras_applications.ipynb
